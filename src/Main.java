@@ -11,5 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        System.out.println("如果你看到这条语句，说明成功了");
     }
 }
